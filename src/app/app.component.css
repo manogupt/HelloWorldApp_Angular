@@ -1,6 +1,8 @@
-div {
+div{
     text-align: center;
     font-size: x-large;
+    margin:0 auto ;
+    color: black;
 }
 img{
     display: block;
